@@ -24,4 +24,4 @@ $ python main.py
 ## Controls
 You can immediately begin drawing by holding down the **`left`** mouse button.
 To switch between **draw** and **erase** mode simple click the **`right`** mouse button.
-To clear the screen press the **x key** on your keyboard.
+To clear the screen press the **`x key`** on your keyboard.
