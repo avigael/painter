@@ -3,7 +3,7 @@ This project is written in Python. To run this project please make sure you have
 
 This is a simple drawing application written in Python.
 
-![Screenshot](https://raw.githubusercontent.com/avigael/painter/main/app.png "Screenshot")
+![Screenshot](https://raw.githubusercontent.com/avigael/painter/main/screenshot.png "Screenshot")
 
 ## Running
 **Optional:** Create a virtual enviroment
