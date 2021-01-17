@@ -7,14 +7,18 @@ This is a simple drawing application written in Python.
 
 ## Running
 **Optional:** Create a virtual enviroment
+
 *Note: Only avaliable in [Python 3.3](https://docs.python.org/3/library/venv.html "Python")* and above
+
 ```
 $ cd painter
 $ python -m venv venv
 $ source venv/bin/activate
 ```
 **Install Pygame:** This project requires Pygame to run
+
 *Note: This program was built using 2.0.1*
+
 ```
 $ pip install pygame
 ```
