@@ -7,6 +7,7 @@ This is a simple drawing application written in Python.
 
 ## Running
 **Optional:** Create a virtual enviroment
+*Note: Only avaliable in [Python 3.3](https://docs.python.org/3/library/venv.html "Python")* and above
 ```
 $ cd painter
 $ python -m venv venv
